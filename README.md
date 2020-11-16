@@ -1,2 +1,2 @@
-# web
-just website
+# github web
+just github website
